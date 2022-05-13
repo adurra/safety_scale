@@ -1,6 +1,9 @@
 {
   "name": "safety_scale",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js "
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
